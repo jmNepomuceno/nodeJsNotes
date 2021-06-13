@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+h1{
+    color:red;
+}
+
+body #e-add-lbl{
+    position: absolute;
+    top:5%;
+    left:30%;
+    width:30%;
+    height:10%;
+    font-size: 3vw;
+    font-family: consolas;
+    color:black;
+    text-align: center;
+}
+
+body form #e-add-txt{
+    position: absolute;
+    top:15%;
+    left:33.5%;
+    width:30%;
+    height:10%;
+    font-size: 3vw;
+    font-family: consolas;
+    color:black;
+    text-align: center;
+}
+
+body form #pword-lbl{
+    position: absolute;
+    top:40%;
+    left:26%;
+    width:30%;
+    height:10%;
+    font-size: 3vw;
+    font-family: consolas;
+    color:black;
+    text-align: center;
+}
+
+body form #pword-txt{
+    position: absolute;
+    top:50%;
+    left:33.5%;
+    width:30%;
+    height:10%;
+    font-size: 3vw;
+    font-family: consolas;
+    color:black;
+    text-align: center;
+}
