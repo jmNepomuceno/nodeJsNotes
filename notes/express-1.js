@@ -21,10 +21,10 @@ const app = express()
 //     res.sendFile(path.resolve(__dirname, './index.html')) // to send html file for example
 // })
 
-app.use(express.static('./static'))
+app.use(express.static('./static_b'))
 
 app.get('/' , (req, res) => {
-    res.sendFile(path.resolve('./static/post.html'))
+    res.sendFile(path.resolve('./static_b/post.html'))
 })
 
 app.get('/about' , (req, res)=>{
