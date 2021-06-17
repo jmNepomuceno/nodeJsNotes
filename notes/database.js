@@ -1,10 +1,12 @@
 const ex = [
     {
+        id: 1,
         name : 'JM',
         age : 20
     },
     {
-        name : 'Kyla',
+        id : 2,
+        name : '****',
         age : 20
     }
 ]
