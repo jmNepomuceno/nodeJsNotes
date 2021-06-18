@@ -1,4 +1,4 @@
-const ex = [
+const people = [
     {
         id: 1,
         name : 'John',
@@ -31,4 +31,4 @@ const ex = [
     }
 ]
 
-module.exports = {ex}
+module.exports = {people}
